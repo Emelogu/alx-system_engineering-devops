@@ -1,1 +1,1 @@
-This is a script that changes the current user, betty.
+A readme that contains what each script is doing
