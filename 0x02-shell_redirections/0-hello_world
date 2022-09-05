@@ -1,6 +1,2 @@
-#!/bin/bash
+#!bin/bash
 Hello, World
-Hello, World
-cat -e
-cd 
-user /root
